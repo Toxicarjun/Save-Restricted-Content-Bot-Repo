@@ -1,6 +1,6 @@
 {
 
-    "name": "Save restricted content bot by @dev_gagan",
+    "name": "Save restricted content bot by @CDMAXX",
     "description": "Telegram bot to save restricted content.",
     "logo": "",
     "keywords": [
@@ -33,7 +33,7 @@
             "value": ""
         },
         "FORCESUB": {
-            "description": "Username name of public channel without using '@'.",
+            "description": "privatearjun '@'.",
             "value": ""
         }
     },
