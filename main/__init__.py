@@ -1,4 +1,4 @@
-#Join me at telegram @dev_gagan
+#Join me at telegram @Privatearjun
 
 from pyrogram import Client
 
@@ -15,11 +15,11 @@ logging.getLogger("telethon").setLevel(logging.WARNING)
 
 
 # variables
-API_ID = config("API_ID", default=None, cast=int)
-API_HASH = config("API_HASH", default=None)
-BOT_TOKEN = config("BOT_TOKEN", default=None)
-SESSION = config("SESSION", default=None)
-FORCESUB = config("FORCESUB", default=None)
+API_ID = config("13892075", default=None, cast=int)
+API_HASH = config("e3b8632e5034801fbeaea7aa3283f442", default=None)
+BOT_TOKEN = config("6877763529:AAHHqDbHnSu2_I8h_ktcYQT6TrUjAkZicMM", default=None)
+SESSION = config("BADT-esAop9llYIB6jXDFmEBHZyA73YU7ha7B1jauPD-csQw_pbkpra5J6V2hrepyOzcNzSmsvMiLXpjVO0drx5_-bycKblIXN9xasjILW9ND-kpywmGomeymPfH99Yenle0DkRclBRhgOFoOQT50dT4RRdraYBKDYL2jt5d6dO-oBDVlTfQZKXR6E_Vn08B1hxJstloRMKn7cRWas2-UwtfcrJCgFnAqCU36pKd8rvHE2TRedP4kZVDdYrKcEbeHVK7g4moQu5JncI2Z8xXxw0awhTaKKLl46dtTXlSyjO3OR8rfE8cyb7Oj7Cpvn9ISEd2ym42VJNCt2hY4ZOE7ItbhfNUsgAAAAGBTrCyAA", default=None)
+FORCESUB = config("privatearjun", default=None)
 AUTH = config("AUTH", default=None)
 SUDO_USERS = []
 
